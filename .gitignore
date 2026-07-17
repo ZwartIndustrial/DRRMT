@@ -1,0 +1,17 @@
+# The MSI is distributed as a GitHub Release asset, not committed to Git history.
+*.msi
+
+# WiX build output
+*.wixobj
+*.wixpdb
+msi_out/
+publish_single/
+
+# .NET build output
+bin/
+obj/
+
+# Local files
+*.log
+Thumbs.db
+.vs/
