@@ -41,3 +41,9 @@ See [CHANGELOG.md](CHANGELOG.md) for the release history.
 Copyright (c) 2026 Zwart Industrial Innovations. All rights reserved.
 
 This is proprietary software. No permission is granted to copy, modify, redistribute, reverse engineer, sublicense, or otherwise use the software except as expressly permitted by ZII and the applicable End-User License Agreement.
+
+## Support the project
+
+Donations are appreciated and help support ongoing development and maintenance.
+
+<img src="assets/paypal-donation-qr.png" alt="PayPal donation QR code" width="300">
