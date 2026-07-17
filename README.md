@@ -12,6 +12,12 @@ Current version: **2.0.2**
 
 [Download DR Rene Magic Toolbox 2.0.2](https://github.com/ZwartIndustrial/DRRMT/releases/download/V2.0.2/DR_Rene_Magic_Toolbox_2.0.2.msi)
 
+## Documentation
+
+[Download the DR Rene Magic Toolbox 2.0.2 User & Service Manual (PDF)](https://github.com/ZwartIndustrial/DRRMT/releases/download/V2.0.2/DR_Renes_Magic_Toolbox_Manual_v2.0.2.pdf)
+
+The manual covers installation, controller selection, module operation, error handling, and the LGC and NGC EventLog Pullers.
+
 ## Installation
 
 1. Download the MSI installer from the Releases page.
