@@ -1,6 +1,6 @@
 # DR Rene Magic Toolbox (DRRMT)
 
-![DRRMT application icon](assets/DRRMT-icon.png)
+![DRRMT application icon](DRRMT-icon.png)
 
 DR Rene Magic Toolbox is Windows software published by Zwart Industrial Innovations (ZII).
 
