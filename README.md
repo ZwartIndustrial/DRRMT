@@ -10,7 +10,7 @@ Download the current installer from the [latest GitHub Release](https://github.c
 
 Current version: **2.0.2**
 
-[Download DR Rene Magic Toolbox 2.0.2](https://github.com/ZwartIndustrial/DRRMT/releases/download/v2.0.2/DR_Rene_Magic_Toolbox_2.0.2.msi)
+[Download DR Rene Magic Toolbox 2.0.2](https://github.com/ZwartIndustrial/DRRMT/releases/download/V2.0.2/DR_Rene_Magic_Toolbox_2.0.2.msi)
 
 ## Installation
 
